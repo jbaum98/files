@@ -1,0 +1,1 @@
+nixos-sd-image-20.03pre-git-aarch64-linux.img.bz2 filter=lfs diff=lfs merge=lfs -text
